@@ -23,7 +23,7 @@ if (cardNumber == 11) {
 } else if (cardNumber == 12) {
   showNumber = "Q";
 } else if (cardNumber == 13) {
-  showCNumber = "K";
+  showNumber = "K";
 } else {
   showNumber = cardNumber;
 }
